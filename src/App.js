@@ -3,6 +3,8 @@ import './App.css';
 import axios from 'axios';
 
 function App() {
+
+
   const CLIENT_ID = "28e364844a4848e3905c1f15953abfd0"
   const REDIRECT_URI = "http://localhost:3000"
   const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize"

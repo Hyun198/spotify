@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/proxy/*"
+  to = "https://accounts.spotify.com/:splat"
+  status = 200
+  force = true
